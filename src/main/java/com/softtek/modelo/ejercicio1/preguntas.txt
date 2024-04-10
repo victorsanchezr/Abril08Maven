@@ -1,0 +1,12 @@
+Crear la clase abstracta Animal con los métodos abstractos comer() y moverse(). A
+continuación crearemos varias clases Perro, Pez, Pajaro, Gusano
+¿Qué ocurre si no implemento todos los métodos?
+Sale error en las clases en las que no se implementa
+¿Puedo crear instancias igualmente?
+No
+¿Puedo modificar parte de la definición de los métodos abstractos?
+¿Puedo utilizar polimorfismo?
+Si
+Crea clases extendiendo la clase Pájaro, por ejemplo Gorrión y Buitre.
+¿También son abstractas estas clases?
+No
